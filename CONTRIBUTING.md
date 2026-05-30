@@ -1,35 +1,28 @@
 # Contributing
 
-Thanks for helping improve GenColoring's public feedback and documentation.
+Thanks for helping improve GenColoring AI. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [gencoloring.ai](https://gencoloring.ai).
 
-## Ways To Contribute
+## Good Contributions
 
-- Report reproducible product bugs
-- Suggest improvements to coloring page generation workflows
-- Request documentation for common use cases
-- Share clear examples of confusing behavior
-- Comment on roadmap items with real classroom, family, or creator context
+- Photo-to-coloring results that need cleaner line art or better print readability
+- Prompt-to-coloring cases for classroom, family, seasonal, or adult coloring use
+- Name-page style requests and typography clarity problems
+- Online coloring editor behavior, palette usability, download, or print issues
 
-## Issue Quality
+## How To File Feedback
 
-Good issues include:
+- Search existing issues before opening a new one.
+- Use a clear title that names the affected page or workflow.
+- Include steps to reproduce, expected behavior, actual behavior, and any safe sample input.
+- Keep screenshots and recordings free of private account, payment, uploaded-media, or personal data.
 
-- A short, specific title
-- The exact workflow or page involved
-- Steps to reproduce, when applicable
-- Expected result
-- Actual result
-- Browser, device, and rough time of the issue
+## Product Boundaries
+
+- Printable output matters more than generic image novelty.
+- The product should serve parents, teachers, creators, and hobbyists clearly.
+- Editor feedback should focus on real coloring and printing tasks.
+- This repository is for public product feedback, not private production source code.
 
 ## Pull Requests
 
-This repository is for public documentation and feedback. Pull requests may be accepted for documentation fixes, templates, and public repository maintenance.
-
-Pull requests that attempt to add application source code, copied product implementation, credentials, private configuration, or licensed image data will be closed.
-
-## Content Guidelines
-
-- Keep feedback specific and respectful.
-- Do not post private data or generated images without permission.
-- Do not include secrets, tokens, cookies, or payment information.
-- Use public issues only for information that can safely remain public.
+This repository does not accept pull requests for the private production application. Documentation-only pull requests may be considered when they improve public support, roadmap clarity, or issue-report quality.

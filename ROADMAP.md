@@ -1,33 +1,31 @@
-# Roadmap
+# GenColoring AI Public Roadmap
 
-This roadmap is a public summary of product directions we are evaluating or actively improving. It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [gencoloring.ai](https://gencoloring.ai). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
-## Current Focus
+## Now
 
-- More reliable AI coloring page generation
-- Cleaner printable line art for kids, classrooms, and adult coloring
-- Better photo-to-coloring and name-to-coloring workflows
-- Easier PDF and PNG exports for home and school printing
-- Improved online coloring editor reliability
-- Clearer account, credit, and saved-page behavior
+- Improve printable line quality for photos, prompts, and mixed reference workflows.
+- Keep name coloring styles clear enough for kids, classrooms, and event pages.
+- Polish online coloring controls for quick browser use without desktop software.
+- Keep free themed collections useful as discovery paths into custom generation.
 
-## Under Consideration
+## Next
 
-- More collection filters for age, difficulty, theme, and use case
-- Better batch creation for teachers, parents, and printable activity packs
-- More editing controls for line weight, detail level, background, and page layout
-- Saved prompt presets for repeatable coloring page styles
-- Public guides for classroom, therapy, party, and family activity workflows
+- Add better guidance for photos that need stronger outlines or fewer details.
+- Improve classroom-oriented examples for subjects, holidays, and activity sheets.
+- Refine download and print expectations across common page sizes.
+- Expand style guidance for adult coloring, simple kids pages, and decorative names.
 
-## Recently Improved
+## Later
 
-See [CHANGELOG.md](CHANGELOG.md) for public updates.
+- Evaluate reusable packs for teachers and repeat printable activities.
+- Improve collection organization around themes, difficulty, and age range.
+- Add clearer before/after examples for photo conversion quality.
+- Document safe expectations for AI generation and manual cleanup.
 
-## Suggesting Roadmap Items
+## Product Principles
 
-Open a feature request and describe the workflow. Useful requests explain:
-
-- Who needs the coloring page
-- What input they start from
-- What result they want to print, save, or color online
-- What currently takes too long, fails, or requires another tool
+- Printable output matters more than generic image novelty.
+- The product should serve parents, teachers, creators, and hobbyists clearly.
+- Editor feedback should focus on real coloring and printing tasks.
+- This repository is for public product feedback, not private production source code.

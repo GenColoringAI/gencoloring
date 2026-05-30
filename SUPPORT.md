@@ -1,25 +1,26 @@
 # Support
 
-For general product support, use the support options available on [GenColoring.ai](https://gencoloring.ai).
+This repository supports public product feedback for [GenColoring AI](https://gencoloring.ai). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
 
-Use this GitHub repository for public, product-level feedback:
+## Best Public Reports
 
-- Bug reports that other users can safely read
-- Feature requests
-- Documentation suggestions
-- Roadmap discussion
+- Photo-to-coloring results that need cleaner line art or better print readability
+- Prompt-to-coloring cases for classroom, family, seasonal, or adult coloring use
+- Name-page style requests and typography clarity problems
+- Online coloring editor behavior, palette usability, download, or print issues
 
-Do not post:
+## Private Support
 
-- Payment details
-- Account recovery information
-- Private generated images
-- Uploaded photos that are not safe to share publicly
-- API keys, passwords, or session tokens
-- Personal data from yourself or someone else
+Email contact@gencoloring.ai for account, billing, abuse, privacy, uploaded-media, or security-sensitive topics. Do not post payment details, personal data, private media, access tokens, cookies, or full request logs in public issues.
 
-For private account, billing, or security questions, email:
+## Useful Details To Include
 
-```text
-contact@gencoloring.ai
-```
+- The exact page URL where the issue happened
+- What you expected and what actually happened
+- Browser, device, and operating system when relevant
+- Screenshots or short recordings with private data removed
+- For generated outputs or conversion tools, a minimal safe prompt, input, or sample file when possible
+
+## Scope
+
+This is a public product repository. It does not provide production source-code support, private deployment access, provider credentials, or account-specific billing changes through public issues.

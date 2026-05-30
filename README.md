@@ -1,79 +1,51 @@
 <p align="center">
   <a href="https://gencoloring.ai">
-    <img src="assets/logo.png" alt="GenColoring AI logo" width="104" />
+    <img src="assets/logo.png" alt="GenColoring AI logo" width="112" />
   </a>
 </p>
 
-<h1 align="center">GenColoring AI</h1>
+# GenColoring AI
 
-<p align="center">
-  Create printable coloring pages from prompts, photos, and names.
-</p>
+Official public repository for [gencoloring.ai](https://gencoloring.ai). GenColoring AI turns photos, prompts, and names into printable coloring pages, then lets users print, download, or color line art in the browser.
 
-<p align="center">
-  <a href="https://gencoloring.ai">Website</a> ·
-  <a href="ROADMAP.md">Roadmap</a> ·
-  <a href="SUPPORT.md">Support</a> ·
-  <a href="SECURITY.md">Security</a>
-</p>
+This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
-<p align="center">
-  <a href="https://gencoloring.ai">
-    <img src="assets/coloring-page-preview.webp" alt="Example AI-generated printable coloring page" width="620" />
-  </a>
-</p>
+## Product Focus
 
-Official public repository for [GenColoring.ai](https://gencoloring.ai), an AI coloring page generator for printable line art, custom name coloring pages, photo-to-coloring workflows, free coloring page collections, and online coloring tools.
+- Parents making printable pages from family photos
+- Teachers preparing classroom worksheets and themed activities
+- Creators designing name coloring pages for parties, events, and lessons
+- Hobbyists who want both printable line art and an online coloring editor
 
-This repository is used for public documentation, bug reports, feature requests, roadmap notes, and community discussion. The core GenColoring product is not open-source.
+## Main Workflows
 
-## What This Repository Is For
+- Convert photos into clean printable coloring pages.
+- Generate coloring pages from text prompts with optional reference images.
+- Create name coloring pages with bubble, geometric, graffiti, rounded, and decorative styles.
+- Use the browser coloring editor with fill, brush, palettes, undo, redo, reset, save, and PNG download.
+- Browse free themed collections for quick printable discovery.
 
-- Public bug reports for generation, download, printing, and online coloring workflows
-- Feature requests for coloring page creation, collections, editor tools, and exports
-- Roadmap notes and product updates
-- Documentation improvements for parents, teachers, creators, and coloring fans
-- Public discussion about printable coloring workflows
+## What To Open Here
 
-## What This Repository Does Not Contain
+- Photo-to-coloring results that need cleaner line art or better print readability
+- Prompt-to-coloring cases for classroom, family, seasonal, or adult coloring use
+- Name-page style requests and typography clarity problems
+- Online coloring editor behavior, palette usability, download, or print issues
 
-- GenColoring application source code
-- AI provider keys, Supabase configuration, deployment scripts, or internal prompts
-- Private user accounts, payments, generated history, or saved coloring data
-- Licensed collection source material or private image datasets
+## Repository Boundary
 
-Please do not post secrets, private files, payment details, personal data, or copyrighted images that you do not have permission to share.
+- Public issues and discussions are welcome when they improve the live product experience.
+- Do not post private account data, secrets, payment details, uploaded personal media, or sensitive logs.
+- Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
+- Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Product Areas
+## Official Links
 
-- AI coloring page generator
-- Photo to coloring page conversion
-- Name to coloring page creation
-- Free printable coloring page collections
-- Online coloring editor
-- PNG and PDF downloads
-- Credits, accounts, and saved coloring pages
+- Website: [gencoloring.ai](https://gencoloring.ai)
+- Roadmap: [ROADMAP.md](ROADMAP.md)
+- Support: [SUPPORT.md](SUPPORT.md)
+- Security: [SECURITY.md](SECURITY.md)
 
-## Report a Bug
+## Support
 
-Open a bug report with:
-
-- The page or workflow where the issue happened
-- The prompt, image upload, collection, or editor action involved
-- What you expected to happen
-- What actually happened
-- Browser, device, and approximate time
-- Screenshots if they help and do not expose private data
-
-## Request a Feature
-
-Feature requests are most useful when they describe a real coloring workflow:
-
-- Who the coloring page is for
-- Whether the page needs to be easy, detailed, printable, classroom-ready, or online-colorable
-- What input you start from: prompt, photo, name, collection, or existing line art
-- What download, editing, or organization step is missing
-
-## Public Repository Policy
-
-GenColoring is a hosted product. This repository exists to make public feedback and product communication easier. It is not a source-code distribution channel and does not grant a license to copy, self-host, reverse engineer, or redistribute the GenColoring product.
+For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email contact@gencoloring.ai.
