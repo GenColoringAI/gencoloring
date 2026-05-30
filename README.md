@@ -10,6 +10,14 @@ Official public repository for [gencoloring.ai](https://gencoloring.ai). GenColo
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+![GenColoring AI homepage](assets/screenshots/homepage.png)
+
+| Coloring page generator | Online coloring editor |
+| --- | --- |
+| ![GenColoring AI coloring page generator](assets/screenshots/coloring-page-generator.png) | ![GenColoring AI online coloring editor](assets/screenshots/online-coloring.png) |
+
 ## Product Focus
 
 - Parents making printable pages from family photos
