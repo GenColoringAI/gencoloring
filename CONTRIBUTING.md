@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve GenColoring AI. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [gencoloring.ai](https://gencoloring.ai).
+Thanks for helping improve GenColoring AI. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [GenColoring AI coloring page generator](https://gencoloring.ai).
 
 ## Good Contributions
 

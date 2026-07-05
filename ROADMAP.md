@@ -1,6 +1,6 @@
 # GenColoring AI Public Roadmap
 
-This roadmap summarizes product directions we are evaluating or actively improving for [gencoloring.ai](https://gencoloring.ai). It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [GenColoring AI coloring page generator](https://gencoloring.ai). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
 ## Now
 
