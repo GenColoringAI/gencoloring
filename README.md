@@ -6,7 +6,7 @@
 
 # GenColoring AI
 
-Official public repository for [gencoloring.ai](https://gencoloring.ai). GenColoring AI turns photos, prompts, and names into printable coloring pages, then lets users print, download, or color line art in the browser.
+Official public repository for [GenColoring AI coloring page generator](https://gencoloring.ai). GenColoring AI turns photos, prompts, and names into printable coloring pages, then lets users print, download, or color line art in the browser.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
@@ -47,13 +47,21 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
 - Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Official Links
+## Product Feature Links
 
-- Website: [gencoloring.ai](https://gencoloring.ai)
-- Roadmap: [ROADMAP.md](ROADMAP.md)
-- Support: [SUPPORT.md](SUPPORT.md)
-- Security: [SECURITY.md](SECURITY.md)
+- [GenColoring AI coloring page generator](https://gencoloring.ai): Create printable coloring pages from prompts, photos, names, and themed ideas.
+- [GenColoring AI coloring page generator page](https://gencoloring.ai/coloring-page-generator): Open the focused generator page for image-to-line-art and printable coloring workflows.
 
-## Support
+## Recent Updates
 
-For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email contact@gencoloring.ai.
+- 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
+- 2026-07: Separated repository, feedback, and support routes from product feature links to avoid duplicate product URLs.
+
+## Repository Links
+
+| Destination | Link |
+| --- | --- |
+| Primary GitHub repository | [GenColoring AI primary GitHub repository](https://github.com/GenColoringAI/gencoloring) |
+| Roadmap | [ROADMAP.md](ROADMAP.md) |
+| Support | [SUPPORT.md](SUPPORT.md) |
+| Security | [SECURITY.md](SECURITY.md) |
