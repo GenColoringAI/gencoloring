@@ -52,6 +52,10 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - [GenColoring AI coloring page generator](https://gencoloring.ai): Create printable coloring pages from prompts, photos, names, and themed ideas.
 - [GenColoring AI coloring page generator page](https://gencoloring.ai/coloring-page-generator): Open the focused generator page for image-to-line-art and printable coloring workflows.
 
+## Choose The Right Feedback Lane
+
+When reporting a coloring result, say whether it began with a photo, a text prompt, a name, or the online coloring editor. That distinction helps maintainers review line-art quality, typography, print readiness, and browser editing as separate workflows.
+
 ## Recent Updates
 
 - 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
